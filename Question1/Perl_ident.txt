@@ -1,0 +1,1 @@
+int a = b + 1c; float b = 3.23; || int[] array = {3,5,7}; void 33 "Belly" char num = '3'
